@@ -13,4 +13,5 @@ Welcome Gyuri Github 🍊👋
 <a href="javascript:void(0)" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 
 ### 🖱 site
-<a href="https://www.notion.so/Study-Web-7418120205a6408dba63dea390c1091e" target="_blank">Notion - 공부 기록</a>
+- Notion : <a href="https://www.notion.so/Study-Web-7418120205a6408dba63dea390c1091e" target="_blank">💻 Study Web</a>
+- T story blog : <a href="https://gyuri-v.tistory.com/" target="_blank">🍊 Gyuri_v</a>
