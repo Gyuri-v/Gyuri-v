@@ -19,7 +19,6 @@ Welcome Gyuri Github 🍊👋
 
 
 ### 🏡 Site
-- Notion : <a href="https://hilarious-event-2d3.notion.site/Study-Web-7418120205a6408dba63dea390c1091e" target="_blank">💻 Study Web</a>
 - T story blog : <a href="https://gyuri-v.tistory.com/" target="_blank">🍊 Gyuri_v</a>
 
 
