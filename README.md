@@ -18,6 +18,5 @@ Welcome Gyuri Github 🍊👋
 
 ### 🏡 Site
 - T story blog : <a href="https://gyuri-v.tistory.com/" target="_blank">🍊 Gyuri_v</a>
-- email : fnffkdll@naver.com
 
 
